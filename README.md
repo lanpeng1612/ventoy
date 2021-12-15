@@ -1,4 +1,4 @@
-# ventoy
+# ventoy #一键式安装系统
 我的ventoy配置文件,当前适配 ventoy-1.0.24
 
 # 使用方法
